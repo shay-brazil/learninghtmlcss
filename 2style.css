@@ -1,0 +1,26 @@
+body {background:#F5DEB3}
+
+#imagemetec {
+  width: 100%;
+}
+
+#supertitulo {
+  font-size:32px;
+  text-align:center;
+  background:#D2691E;
+}
+
+h2,h3 {
+  font-size:24px;
+  background:#000000;
+}
+
+
+li,strong{color: chocolate}
+
+p{text-align:justify;font-size:20px}
+
+.itensrepertorio {
+  font-size:22px;
+  font-weight: bold;
+}
